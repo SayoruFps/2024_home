@@ -46,4 +46,4 @@ alert(s);
 ***
 ![NKUST](nkust.png "高科大")
 ***
-[![click me](click me.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "click me")
+[![click me](clickme.png")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
